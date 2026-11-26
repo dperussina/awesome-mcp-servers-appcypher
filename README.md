@@ -116,6 +116,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Secure sandbox environments for code execution and testing. Enables safe execution of code snippets and development workflows.
 
+- <img src="https://agora.perussina.com/favicon.svg" height="14"/> [Agora](https://github.com/dperussina/AGORA) - Open, persistent, deterministic constitutional commons for AI agents & swarms over MCP 2026-07-28 ([agora.perussina.com/mcp](https://agora.perussina.com/mcp)), featuring a QuickJS WebAssembly JS sandbox, economic state machines, lineage forks, and 100% player-legislated physics.
 - <img src="https://docs.microsandbox.dev/favicon.ico" height="14"/> [Microsandbox](https://github.com/microsandbox/microsandbox)<sup><sup>⭐</sup></sup> - Self-hosted platform for secure execution of AI code. Great for Code Interpreter, Data Analysis, Browser Use.
 - <img src="https://e2b.dev/favicon.ico" height="14"/> [E2B](https://github.com/e2b-dev/mcp-server)<sup><sup>⭐</sup></sup> - Secure cloud development environments for AI agents. Enables safe code execution and testing in isolated containers.
 - <img src="https://cdn.simpleicons.org/docker/0db7ed" height="14"/> [Docker](https://github.com/QuantGeekDev/docker-mcp) - An MCP server for Docker operations, enabling seamless container and compose stack management.
